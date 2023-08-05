@@ -1,0 +1,76 @@
+⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎
+⁑                   ⁑
+⁑                   ⁑
+⁑       Hello       ⁑
+⁑    This is the    ⁑
+⁑   asterisk frame  ⁑
+⁑  It is very cool  ⁑
+⁑                   ⁑
+⁑                   ⁑
+⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎⁎
+
+┌───────────────────┐
+│                   │
+│                   │
+│       Hello       │
+│    This is the    │
+│  light_box frame  │
+│  It is very cool  │
+│                   │
+│                   │
+└───────────────────┘
+
+╭─────────────────────╮
+│                     │
+│                     │
+│        Hello        │
+│     This is the     │
+│  rounded_box frame  │
+│   It is very cool   │
+│                     │
+│                     │
+╰─────────────────────╯
+
+▛▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▜
+▌                     ▐
+▌                     ▐
+▌        Hello        ▐
+▌     This is the     ▐
+▌  super_heavy frame  ▐
+▌   It is very cool   ▐
+▌                     ▐
+▌                     ▐
+▙▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▟
+
+╭~~~~~~~~~~~~~~~~~~~╮
+│                   │
+│                   │
+│       Hello       │
+│    This is the    │
+│     wavy frame    │
+│  It is very cool  │
+│                   │
+│                   │
+╰~~~~~~~~~~~~~~~~~~~╯
+
+╔═══════════════════╗
+║                   ║
+║                   ║
+║       Hello       ║
+║    This is the    ║
+║     box frame     ║
+║  It is very cool  ║
+║                   ║
+║                   ║
+╚═══════════════════╝
+
+.....................
+┋                   ┋
+┋                   ┋
+┋       Hello       ┋
+┋    This is the    ┋
+┋     dot frame     ┋
+┋  It is very cool  ┋
+┋                   ┋
+┋                   ┋
+.....................
